@@ -12,9 +12,9 @@
 
 /* Modify the following definitions to fit your wireless and enrollment credentials. */
 
-#define device_version 87 // Change to the ChromeOS version you expect to use with Centipede; Changes have been reported in the following ranges 58-68, 69, 70
+#define device_version 103 // Change to the ChromeOS version you expect to use with Centipede; Changes have been reported in the following ranges 58-68, 69, 70
 
-#define wifi_name "" // Define SSID for your wireless connection.
+#define wifi_name "Edit" // Define SSID for your wireless connection.
 #define wifi_pass "Edit" // Define the password for your wireless connection.
 #define wifi_security 2 //[0,1,2] Set to 0 for open, 1 for WEP, 2 for WPA
 #define username "Edit" // Define the user name for enrolling the device.
