@@ -209,7 +209,7 @@ void ToS() {
   repeatKey(KEY_TAB, 4);
   Keyboard.release(KEY_LEFT_SHIFT);
   wait(4);
-  repeatKey(KEY_TAB, 7);
+  repeatKey(KEY_TAB, 9);
   wait(1);
   Keyboard.write(KEY_ENTER);
   wait(7);
